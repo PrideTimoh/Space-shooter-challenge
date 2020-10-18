@@ -1,0 +1,634 @@
+fileFormatVersion: 2
+guid: 771f37de20eceef42b9a839fc1a929f2
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1171075713906134583
+    second: AlienHunters_Sprites_0
+  - first:
+      213: -6337427714238975797
+    second: AlienHunters_Sprites_1
+  - first:
+      213: 7480030703943304210
+    second: AlienHunters_Sprites_2
+  - first:
+      213: 5127681155534964432
+    second: AlienHunters_Sprites_3
+  - first:
+      213: 4452330949570166560
+    second: AlienHunters_Sprites_4
+  - first:
+      213: -6370830251996072479
+    second: AlienHunters_Sprites_5
+  - first:
+      213: -8632367218847540612
+    second: AlienHunters_Sprites_6
+  - first:
+      213: 5483741027663399300
+    second: AlienHunters_Sprites_7
+  - first:
+      213: 7449742874318067667
+    second: AlienHunters_Sprites_8
+  - first:
+      213: -5583865292808741241
+    second: AlienHunters_Sprites_9
+  - first:
+      213: 2779865694038619384
+    second: AlienHunters_Sprites_10
+  - first:
+      213: -6484166565409479325
+    second: AlienHunters_Sprites_11
+  - first:
+      213: 5347076572945325915
+    second: AlienHunters_Sprites_12
+  - first:
+      213: -5321419671523527185
+    second: AlienHunters_Sprites_13
+  - first:
+      213: 7547314850562725484
+    second: AlienHunters_Sprites_14
+  - first:
+      213: 6436359190885124227
+    second: AlienHunters_Sprites_15
+  - first:
+      213: 519616698893168557
+    second: AlienHunters_Sprites_16
+  - first:
+      213: -778660239399154346
+    second: AlienHunters_Sprites_17
+  - first:
+      213: 3992972117831470569
+    second: AlienHunters_Sprites_18
+  - first:
+      213: -1841792402280068227
+    second: AlienHunters_Sprites_19
+  - first:
+      213: 3099004792387982888
+    second: AlienHunters_Sprites_20
+  - first:
+      213: 9042618478900435026
+    second: AlienHunters_Sprites_21
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 64
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 256
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 256
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: AlienHunters_Sprites_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 49
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73e467c382f704010800000000000000
+      internalID: 1171075713906134583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlienHunters_Sprites_1
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 198
+        width: 49
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc0f11f221fec08a0800000000000000
+      internalID: -6337427714238975797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlienHunters_Sprites_2
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 198
+        width: 49
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2144e895b486ec760800000000000000
+      internalID: 7480030703943304210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlienHunters_Sprites_3
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 217
+        width: 25
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d64025e7de292740800000000000000
+      internalID: 5127681155534964432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlienHunters_Sprites_4
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 182
+        width: 57
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02f7b9fb86bd9cd30800000000000000
+      internalID: 4452330949570166560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlienHunters_Sprites_5
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 153
+        width: 38
+        height: 17
+      alignment: 5
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e53671d3a34697a0800000000000000
+      internalID: -6370830251996072479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlienHunters_Sprites_6
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 113
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7a9ddd20cba33880800000000000000
+      internalID: -8632367218847540612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlienHunters_Sprites_7
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 156
+        width: 30
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 489cc1a19692a1c40800000000000000
+      internalID: 5483741027663399300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlienHunters_Sprites_8
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 159
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d7d9bb7cadc26760800000000000000
+      internalID: 7449742874318067667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlienHunters_Sprites_9
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 133
+        width: 43
+        height: 17
+      alignment: 5
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78e908cc9102282b0800000000000000
+      internalID: -5583865292808741241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlienHunters_Sprites_10
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 144
+        width: 35
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f47770de11149620800000000000000
+      internalID: 2779865694038619384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlienHunters_Sprites_11
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 90
+        width: 78
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 365ad440ddc9306a0800000000000000
+      internalID: -6484166565409479325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlienHunters_Sprites_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 112
+        width: 48
+        height: 17
+      alignment: 5
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5f183520d1a43a40800000000000000
+      internalID: 5347076572945325915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlienHunters_Sprites_13
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 105
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe5701ab0058626b0800000000000000
+      internalID: -5321419671523527185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlienHunters_Sprites_14
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 82
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6652d38ed27db860800000000000000
+      internalID: 7547314850562725484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlienHunters_Sprites_15
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 81
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3884783359a825950800000000000000
+      internalID: 6436359190885124227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlienHunters_Sprites_16
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 82
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: daf63e472ac063700800000000000000
+      internalID: 519616698893168557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlienHunters_Sprites_17
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 4
+        width: 63
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65d84e543a4a135f0800000000000000
+      internalID: -778660239399154346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlienHunters_Sprites_18
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 16
+        width: 59
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ed42694cf2e96730800000000000000
+      internalID: 3992972117831470569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlienHunters_Sprites_19
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 3
+        width: 60
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7b45108193a076e0800000000000000
+      internalID: -1841792402280068227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlienHunters_Sprites_20
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 3
+        width: 23
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 826d48f7070e10b20800000000000000
+      internalID: 3099004792387982888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlienHunters_Sprites_21
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 6
+        width: 25
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2585e32c895dd7d70800000000000000
+      internalID: 9042618478900435026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
